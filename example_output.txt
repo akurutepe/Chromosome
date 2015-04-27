@@ -1,0 +1,41 @@
+Content of Seq:
+TTCTGCGACGTTTCTACTAA
+
+SOME EXAMPLES:
+1-Constructor:
+TTCTG  CGACGTTTCTACTAA
+     \/
+     /\
+TTCTG  CGACGTTTCTACTAA
+
+TTCTGCG  ACGTTTCTACTAA
+       \/
+       /\
+GCGACGT  TTCTACTAA
+2-Deletion:
+  TTG  CGACGTTTCTACTAA
+     \/
+     /\
+TTCTG  CGACGTTTCTACTAA
+3-Duplication:
+  TTG  CGACGTTTCTACTAA
+     \/
+     /\
+TTCTG  CGACGTTTCGTTTCTACTAA
+4-Insertion:
+  TTG  GTTTCTACTAA
+     \/
+     /\
+TTCTG  CGACGTTTCGTTTCTACTAACGAC
+5-Translocation:
+  TTG  CGACGTTTCGTTTCTACTAACGAC
+     \/
+     /\
+TTCTG  GTTTCTACTAA
+5.5-Inversion:
+  TTG  CGACGTTTCGTTTCTACTAACGAC
+     \/
+     /\
+TTCTG  TTGTCTACTAA
+6-Occurrences:
+	Number of Occurences of Sequence AC: 5

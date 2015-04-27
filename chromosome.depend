@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1417970693 source:c:\users\filizsusuzlu\documents\codeblocks\chromosome\chromosome.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<chromosome.h>
+
+1417970845 e.h>
+
+1417971000 c:\users\filizsusuzlu\documents\codeblocks\chromosome\\chromosome.h
+	<iostream>
+
+1417971000 
+
+1417970845 source:c:\users\filizsusuzlu\documents\codeblocks\chromosome\test.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<chromosome.h>
+
+1417970884 source:/media/Yedekler/chromosome/chromosome.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<chromosome.h>
+
+1417970845 source:/media/Yedekler/chromosome/test.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<chromosome.h>
+
